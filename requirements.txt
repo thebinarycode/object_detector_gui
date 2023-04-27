@@ -1,0 +1,9 @@
+tensorflow==2.5.0
+cython
+pandas
+PyQt5
+lxmlclear
+beautifulsoup4
+labelImg
+protobuf==3.20.0
+git+https://github.com/philferriere/cocoapi.git
