@@ -24,3 +24,7 @@ Once the environment setup is complete, tag/annotate the images using labelImg t
 Post tagging, you can choose the desired objet detection model from the list and commence the training process
 
 ![image](https://user-images.githubusercontent.com/60978184/234877485-f4fad309-b395-4f0e-9585-9ae4d78a7ce1.png)
+
+## How to execute:
+Execute app_gui.py file to start the process
+!python app_gui.py
