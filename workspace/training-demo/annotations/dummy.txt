@@ -1,0 +1,4 @@
+Place holder for saving the annotation files:
+* label_map.pbtxt
+* train.record
+* validation.record
