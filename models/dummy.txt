@@ -1,0 +1,6 @@
+This is a dummy file
+The Tensorflow - Object detection model repo to be downloaded and placed here
+
+Reference links:
+https://git-scm.com/downloads
+https://github.com/tensorflow/models/archive/master.zip
