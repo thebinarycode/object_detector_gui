@@ -1,0 +1,1 @@
+Placeholder where pre trained Object detection models to be downloaded before custom trained to our dataset
